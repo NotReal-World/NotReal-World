@@ -4,7 +4,7 @@
  ===============================
 
 - 🌱 Estamos cursando Técnico em Desenvolvimento de Sistemas no IFPR-Campus Avançado de Astorga
-- 🧭 Pode  encontrar...
+- 🧭 Pode nos encontrar...
 
 <div> 
   <a href="https://linktr.ee/notreal_world"><img src="https://img.shields.io/badge/-Linktree-%23333?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
