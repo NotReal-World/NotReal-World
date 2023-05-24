@@ -7,7 +7,7 @@
 - 🧭 Pode nos encontrar...
 
 <div> 
-  <a href="https://linktr.ee/notreal_world"><img src="https://img.shields.io/badge/-Linktree-%23333?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  <a href="https://linktr.ee/not_realw"><img src="https://img.shields.io/badge/-Linktree-%23333?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 </div>
 
 ***
