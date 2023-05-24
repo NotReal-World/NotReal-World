@@ -2,6 +2,7 @@
 
  Olá! Nós somos a Not Real World
  ===============================
+ O nome é uma mensagem que nos lembra que o lugar que costumava ser um escape hoje se tornou o lugar do qual queremos escapar: o mundo irreal, a internet! Nossa missão é ajudar a comunidade a aprender a usar tecnologias conscientemente e criar o inimaginável para despertar o melhor da humanidade.
 
 - 🌱 Estamos cursando Técnico em Desenvolvimento de Sistemas no IFPR-Campus Avançado de Astorga
 - 🧭 Pode nos encontrar...
